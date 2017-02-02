@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListRandomPeople</string>
+    <string name="nome">Nome.:</string>
+    <string name="user">Usuário.:</string>
+    <string name="email">E-mail.:</string>
+    <string name="phone">Telefone.:</string>
+    <string name="de">De.:</string>
+    <string name="hifen">-</string>
+    <string name="cidade">Cidade.:</string>
+    <string name="estado">Estado.:</string>
+</resources>
